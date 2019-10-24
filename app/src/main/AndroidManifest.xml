@@ -36,7 +36,7 @@
 
         <provider
             android:name=".data.ProductProvider"
-            android:authorities="com.example.android.product"
+            android:authorities="com.example.market"
             android:exported="false" />
 
     </application>

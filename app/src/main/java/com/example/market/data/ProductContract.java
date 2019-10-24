@@ -8,7 +8,7 @@ public final class ProductContract {
 
     private ProductContract() {}
 
-    static final String CONTENT_AUTHORITY = "com.example.android.product";
+    static final String CONTENT_AUTHORITY = "com.example.market";
     private static final Uri BASE_CONTENT_URI = Uri.parse("content://" + CONTENT_AUTHORITY);
     static final String PATH_PRODUCTS = "products";
 
