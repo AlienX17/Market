@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Market</string>
+    <string name="details">Details</string>
+    <string name="price">Price</string>
+    <string name="dollar">$</string>
+    <string name="product_name">Name</string>
+    <string name="product_brand">Brand</string>
+    <string name="quantity">Quantity</string>
+    <string name="empty_shop_title">The shop is empty</string>
+    <string name="add_some_products">Add some products here</string>
+    <string name="delete_action">Delete Product</string>
+    <string name="save_action">Save</string>
+    <string name="insert_default_product">Insert default product</string>
+    <string name="delete_all_products">Delete all products</string>
+    <string name="add_product">Add a product</string>
+    <string name="edit_product">Edit a product</string>
+    <string name="editor_insert_failed">Error with saving product</string>
+    <string name="editor_insert_successful">Product saved</string>
+    <string name="product_deleted">Product deleted</string>
+    <string name="product_deleted_error">Error deleting product</string>
+    <string name="update_product_failed">Product update failed</string>
+    <string name="update_product_successful">Product update successful</string>
+</resources>
